@@ -1,4 +1,4 @@
-package com.mycompany.pack;
+package com.mycompany.mavenproject1;
 
 import java.util.Scanner;
 
